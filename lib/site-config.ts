@@ -17,8 +17,10 @@ export const siteConfig = {
   siteUrl: "https://www.hadjismaelbolaly.com",
 
   // Contacts
-  whatsappNumber: "+22603809292",
-  whatsappLink: "https://wa.me/message/M3V72WB7GUSTD1",
+ phone: "+22604469454",
+phoneDisplay: "+226 04 46 94 54",
+whatsappLink: "https://wa.me/message/7ZPNT4WUNBYGI1",
+whatsappNumberLink: "https://wa.me/22604469454",
   email: "hadjismaelbolaly@gmail.com",
 
   // Zone géographique ciblée pour le SEO local
